@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="ibx" table="x_141970_work_orde_work_order" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ibx</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RJ1</label>
+            <language>en</language>
+            <name>x_141970_work_orde_work_order</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b70523bdbb332003dd77e7dbf9619f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <value>RJ1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ibx</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RJ2</label>
+            <language>en</language>
+            <name>x_141970_work_orde_work_order</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b70523bdbb332003dd77e7dbf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <value>RJ2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ibx</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SP1</label>
+            <language>en</language>
+            <name>x_141970_work_orde_work_order</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1770523bdbb332003dd77e7dbf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <value>SP1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ibx</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SP2</label>
+            <language>en</language>
+            <name>x_141970_work_orde_work_order</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1370523bdbb332003dd77e7dbf9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <value>SP2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ibx</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SP3</label>
+            <language>en</language>
+            <name>x_141970_work_orde_work_order</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f70523bdbb332003dd77e7dbf9619fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <value>SP3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>ibx</element>
+            <name>x_141970_work_orde_work_order</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d370523bdbb332003dd77e7dbf9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ibx</sys_name>
+            <sys_package display_value="Work Order Sample" source="x_141970_work_orde">45f7ce33dbb332003dd77e7dbf96192e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Work Order Sample">45f7ce33dbb332003dd77e7dbf96192e</sys_scope>
+            <sys_update_name>sys_choice_x_141970_work_orde_work_order_ibx</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

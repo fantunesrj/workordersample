@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="work_order_technical_approve_date" label="Work Order Technical Approve Date" language="en" table="x_141970_work_orde_work_order">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>work_order_technical_approve_date</element>
+            <help/>
+            <hint/>
+            <label>Work Order Technical Approve Date</label>
+            <language>en</language>
+            <name>x_141970_work_orde_work_order</name>
+            <plural>Work Order Technical Approve Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 17:52:43</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>5b4dcab7dbb332003dd77e7dbf96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Work Order Technical Approve Date</sys_name>
+            <sys_package display_value="Work Order Sample" source="x_141970_work_orde">45f7ce33dbb332003dd77e7dbf96192e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Work Order Sample">45f7ce33dbb332003dd77e7dbf96192e</sys_scope>
+            <sys_update_name>sys_documentation_x_141970_work_orde_work_order_work_order_technical_approve_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 17:52:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
