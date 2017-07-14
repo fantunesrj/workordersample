@@ -5,7 +5,7 @@
         <element label="Customer ID" mandatory="true" max_length="40" name="customer_id" type="integer"/>
         <element label="Customer Name" mandatory="true" max_length="200" name="customer_name" type="string"/>
         <element label="Due Date" max_length="40" name="due_date" type="glide_date_time"/>
-        <element choice="1" label="IBX" mandatory="true" max_length="40" name="ibx" type="choice">
+        <element choice="1" label="IBX" mandatory="true" max_length="40" name="ibx" reference="x_141970_work_orde_ibx" type="reference">
             <choice>
                 <element label="RJ1" sequence="0" value="RJ1"/>
                 <element label="RJ2" sequence="1" value="RJ2"/>
@@ -16,20 +16,19 @@
         </element>
         <element label="Special Project" max_length="40" name="special_project" type="boolean"/>
         <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element choice="1" label="IBX" max_length="32" name="u_wo_ibx" reference="x_141970_work_orde_ibx" type="reference">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Work Order Status" max_length="40" name="u_wo_status" reference="x_141970_work_orde_work_order_status" type="reference">
+            <choice/>
+        </element>
         <element label="Work Order Customer Approve Date" max_length="40" name="work_order_customer_approve_date" type="glide_date_time"/>
         <element label="Work Order ID" mandatory="true" max_length="40" name="work_order_id" type="integer"/>
-        <element choice="1" default="1" label="Work Order Status" mandatory="true" max_length="40" name="work_order_status" type="choice">
-            <choice>
-                <element label="New" sequence="0" value="1"/>
-                <element label="Contractual Reassessment" sequence="1" value="2"/>
-                <element label="Provisioning" sequence="2" value="3"/>
-                <element label="Technical Validation" sequence="3" value="4"/>
-                <element label="Pending" sequence="4" value="5"/>
-                <element label="Operational Validation" sequence="5" value="6"/>
-                <element label="Customer Approved" sequence="6" value="7"/>
-            </choice>
-        </element>
+        <element choice_field="label" choice_table="x_141970_work_orde_work_order_status" display="true" label="Work Order Status" max_length="40" name="work_order_status" type="string"/>
         <element label="Work Order Technical Approve Date" max_length="40" name="work_order_technical_approve_date" type="glide_date_time"/>
-        <element display="true" label="Work Order Validation Date" max_length="40" name="work_order_validation_date" type="glide_date_time"/>
+        <element label="Work Order Validation Date" max_length="40" name="work_order_validation_date" type="glide_date_time"/>
+        <index name="index">
+            <element name="u_wo_ibx"/>
+        </index>
     </element>
 </database>

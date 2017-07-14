@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Work Order Status" max_length="40" name="x_141970_work_orde_work_order_status" type="collection">
+        <element label="ID wo status" max_length="40" name="id_wo_status" type="integer"/>
+        <element display="true" label="Label" max_length="40" name="label" type="string"/>
+    </element>
+</database>

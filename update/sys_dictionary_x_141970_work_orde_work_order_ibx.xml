@@ -31,7 +31,7 @@
         <element>ibx</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="Choice">choice</internal_type>
+        <internal_type display_value="Reference">reference</internal_type>
         <mandatory>true</mandatory>
         <max_length>40</max_length>
         <name>x_141970_work_orde_work_order</name>
@@ -39,7 +39,7 @@
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="x_141970_work_orde_ibx">x_141970_work_orde_ibx</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -53,8 +53,8 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-13 17:52:42</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>552b0677dbb332003dd77e7dbf961921</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_id>b44412bbdbb332003dd77e7dbf96198d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>IBX</sys_name>
         <sys_package display_value="Work Order Sample" source="x_141970_work_orde">45f7ce33dbb332003dd77e7dbf96192e</sys_package>
         <sys_policy/>
@@ -62,7 +62,7 @@
         <sys_scope display_value="Work Order Sample">45f7ce33dbb332003dd77e7dbf96192e</sys_scope>
         <sys_update_name>sys_dictionary_x_141970_work_orde_work_order_ibx</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-13 18:06:38</sys_updated_on>
+        <sys_updated_on>2017-07-14 18:41:35</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

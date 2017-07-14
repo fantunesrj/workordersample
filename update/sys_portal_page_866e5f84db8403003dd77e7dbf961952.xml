@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2017-07-14 18:54:52">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>866e5f84db8403003dd77e7dbf961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Work Order Sample" source="x_141970_work_orde">45f7ce33dbb332003dd77e7dbf96192e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Work Order Sample">45f7ce33dbb332003dd77e7dbf96192e</sys_scope>
+        <sys_update_name>sys_portal_page_866e5f84db8403003dd77e7dbf961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">866e5f84db8403003dd77e7dbf961952</page>
+                <summary>Top 10 Orchestration Activities</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                <sys_id>0e6ed3c4db8403003dd77e7dbf961984</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">0e6ed3c4db8403003dd77e7dbf961984</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>026ed3c4db8403003dd77e7dbf961986</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">0e6ed3c4db8403003dd77e7dbf961984</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>4e6ed3c4db8403003dd77e7dbf961985</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>Top 10 Orchestration Activities</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">0e6ed3c4db8403003dd77e7dbf961984</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>826ed3c4db8403003dd77e7dbf961985</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>13bcd46653703200184e289e16dc3413</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">0e6ed3c4db8403003dd77e7dbf961984</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>8a6ed3c4db8403003dd77e7dbf961985</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">0e6ed3c4db8403003dd77e7dbf961984</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>c66ed3c4db8403003dd77e7dbf961985</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">0e6ed3c4db8403003dd77e7dbf961984</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>ce6ed3c4db8403003dd77e7dbf961984</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">866e5f84db8403003dd77e7dbf961952</page>
+                <summary>Orchestrated Usage by Provider (Last 12 Months)</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                <sys_id>466ed3c4db8403003dd77e7dbf961986</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">466ed3c4db8403003dd77e7dbf961986</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>0a6ed3c4db8403003dd77e7dbf961986</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">466ed3c4db8403003dd77e7dbf961986</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>426ed3c4db8403003dd77e7dbf961987</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>1bec586653703200184e289e16dc3497</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">466ed3c4db8403003dd77e7dbf961986</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>4a6ed3c4db8403003dd77e7dbf961987</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">466ed3c4db8403003dd77e7dbf961986</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>866ed3c4db8403003dd77e7dbf961987</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">466ed3c4db8403003dd77e7dbf961986</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>8e6ed3c4db8403003dd77e7dbf961986</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">466ed3c4db8403003dd77e7dbf961986</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>ca6ed3c4db8403003dd77e7dbf961986</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>Orchestrated Usage by Provider (Last 12 Months)</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">866e5f84db8403003dd77e7dbf961952</page>
+                <summary>Number of Orchestration Activities Developed</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                <sys_id>8e6ed3c4db8403003dd77e7dbf961987</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">8e6ed3c4db8403003dd77e7dbf961987</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>026ed3c4db8403003dd77e7dbf961989</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>7612db75b3a132003a8a86d256a8dc2b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">8e6ed3c4db8403003dd77e7dbf961987</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>066ed3c4db8403003dd77e7dbf961988</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">8e6ed3c4db8403003dd77e7dbf961987</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>426ed3c4db8403003dd77e7dbf961988</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">8e6ed3c4db8403003dd77e7dbf961987</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>4e6ed3c4db8403003dd77e7dbf961988</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">8e6ed3c4db8403003dd77e7dbf961987</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>8a6ed3c4db8403003dd77e7dbf961988</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-07-14 11:25:33">8e6ed3c4db8403003dd77e7dbf961987</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-07-14 18:25:33</sys_created_on>
+                        <sys_id>c66ed3c4db8403003dd77e7dbf961988</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-07-14 18:25:33</sys_updated_on>
+                        <value>Number of Orchestration Activities Developed</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

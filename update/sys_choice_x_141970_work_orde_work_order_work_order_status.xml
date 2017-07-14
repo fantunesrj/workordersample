@@ -11,13 +11,13 @@
             <name>x_141970_work_orde_work_order</name>
             <sequence>0</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_created_on>2017-07-14 17:06:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>9370923bdbb332003dd77e7dbf96190a</sys_id>
+            <sys_id>b56cc34cdb4403003dd77e7dbf96191f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <sys_updated_on>2017-07-14 17:06:54</sys_updated_on>
             <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -30,13 +30,13 @@
             <name>x_141970_work_orde_work_order</name>
             <sequence>1</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_created_on>2017-07-14 17:06:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5370923bdbb332003dd77e7dbf96190b</sys_id>
+            <sys_id>756cc34cdb4403003dd77e7dbf961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <sys_updated_on>2017-07-14 17:06:54</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -49,13 +49,13 @@
             <name>x_141970_work_orde_work_order</name>
             <sequence>2</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_created_on>2017-07-14 17:06:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5f70923bdbb332003dd77e7dbf96190b</sys_id>
+            <sys_id>716cc34cdb4403003dd77e7dbf961921</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <sys_updated_on>2017-07-14 17:06:54</sys_updated_on>
             <value>3</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -68,13 +68,13 @@
             <name>x_141970_work_orde_work_order</name>
             <sequence>3</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_created_on>2017-07-14 17:06:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5b70923bdbb332003dd77e7dbf96190c</sys_id>
+            <sys_id>7d6cc34cdb4403003dd77e7dbf961921</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <sys_updated_on>2017-07-14 17:06:54</sys_updated_on>
             <value>4</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -87,13 +87,13 @@
             <name>x_141970_work_orde_work_order</name>
             <sequence>4</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_created_on>2017-07-14 17:06:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5770923bdbb332003dd77e7dbf96190d</sys_id>
+            <sys_id>796cc34cdb4403003dd77e7dbf961922</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <sys_updated_on>2017-07-14 17:06:54</sys_updated_on>
             <value>5</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -106,13 +106,13 @@
             <name>x_141970_work_orde_work_order</name>
             <sequence>5</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_created_on>2017-07-14 17:06:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5370923bdbb332003dd77e7dbf96190e</sys_id>
+            <sys_id>756cc34cdb4403003dd77e7dbf961923</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <sys_updated_on>2017-07-14 17:06:54</sys_updated_on>
             <value>6</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -125,13 +125,13 @@
             <name>x_141970_work_orde_work_order</name>
             <sequence>6</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_created_on>2017-07-14 17:06:54</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5f70923bdbb332003dd77e7dbf96190e</sys_id>
+            <sys_id>796cc34cdb4403003dd77e7dbf961987</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <sys_updated_on>2017-07-14 17:06:54</sys_updated_on>
             <value>7</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -139,9 +139,9 @@
             <name>x_141970_work_orde_work_order</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 18:06:39</sys_created_on>
+            <sys_created_on>2017-07-14 17:06:54</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>1f70923bdbb332003dd77e7dbf96190a</sys_id>
+            <sys_id>316cc34cdb4403003dd77e7dbf961920</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>work_order_status</sys_name>
             <sys_package display_value="Work Order Sample" source="x_141970_work_orde">45f7ce33dbb332003dd77e7dbf96192e</sys_package>
@@ -150,7 +150,7 @@
             <sys_scope display_value="Work Order Sample">45f7ce33dbb332003dd77e7dbf96192e</sys_scope>
             <sys_update_name>sys_choice_x_141970_work_orde_work_order_work_order_status</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 18:06:39</sys_updated_on>
+            <sys_updated_on>2017-07-14 17:06:54</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>
