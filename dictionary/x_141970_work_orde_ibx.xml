@@ -2,6 +2,6 @@
 <database>
     <element label="IBX" max_length="40" name="x_141970_work_orde_ibx" type="collection">
         <element label="IBX" max_length="40" name="ibx" type="string"/>
-        <element display="true" label="IBX Name" max_length="200" name="ibx_name" type="string"/>
+        <element display="true" label="IBX Name" max_length="300" name="ibx_name" type="string"/>
     </element>
 </database>
