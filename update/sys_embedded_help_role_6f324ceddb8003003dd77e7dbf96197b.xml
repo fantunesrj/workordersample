@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sm_app_owner" name="sm_app_owner">58eb3c70c30312003e76741e81d3aecf</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-07-18 18:14:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6f324ceddb8003003dd77e7dbf96197b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>58eb3c70c30312003e76741e81d3aecf</sys_name>
+        <sys_package display_value="Work Order Sample" source="x_141970_work_orde">45f7ce33dbb332003dd77e7dbf96192e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Work Order Sample">45f7ce33dbb332003dd77e7dbf96192e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6f324ceddb8003003dd77e7dbf96197b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-18 18:14:32</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
