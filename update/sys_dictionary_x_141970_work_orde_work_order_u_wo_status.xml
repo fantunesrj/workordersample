@@ -13,7 +13,7 @@
         <column_label>Work Order Status</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>ff724bc4db4403003dd77e7dbf96193d</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -32,7 +32,7 @@
         <name>x_141970_work_orde_work_order</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference display_value="" name="x_141970_work_orde_work_order_status">x_141970_work_orde_work_order_status</reference>
         <reference_cascade_rule/>
@@ -49,7 +49,7 @@
         <sys_created_on>2017-07-14 17:04:53</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>5cfb8f0cdb4403003dd77e7dbf961947</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Work Order Status</sys_name>
         <sys_package display_value="Work Order Sample" source="x_141970_work_orde">45f7ce33dbb332003dd77e7dbf96192e</sys_package>
         <sys_policy/>
@@ -57,7 +57,7 @@
         <sys_scope display_value="Work Order Sample">45f7ce33dbb332003dd77e7dbf96192e</sys_scope>
         <sys_update_name>sys_dictionary_x_141970_work_orde_work_order_u_wo_status</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-14 18:47:16</sys_updated_on>
+        <sys_updated_on>2017-07-19 13:30:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

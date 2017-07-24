@@ -5,13 +5,13 @@
             <element>work_order_id</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>c2f2ef48db8403003dd77e7dbf961942</sys_id>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>500b0f1bdbc003003dd77e7dbf961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>46f2ef48db8403003dd77e7dbf961942</sys_id>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>d00b0f1bdbc003003dd77e7dbf961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,27 +33,27 @@
             <element>customer_id</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>c6f2ef48db8403003dd77e7dbf961942</sys_id>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>540b0f1bdbc003003dd77e7dbf961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>customer_name</element>
+            <element>u_wo_status</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>4af2ef48db8403003dd77e7dbf961942</sys_id>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>d40b0f1bdbc003003dd77e7dbf961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,55 +61,55 @@
             <element>.begin_split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>caf2ef48db8403003dd77e7dbf961942</sys_id>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>580b0f1bdbc003003dd77e7dbf961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_wo_ibx</element>
+            <element>special_project</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>4ef2ef48db8403003dd77e7dbf961942</sys_id>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>d80b0f1bdbc003003dd77e7dbf961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>special_project</element>
+            <element>u_wo_ibx</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>cef2ef48db8403003dd77e7dbf961942</sys_id>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>5c0b0f1bdbc003003dd77e7dbf961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_wo_status</element>
+            <element>start_date</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>42f2ef48db8403003dd77e7dbf961943</sys_id>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>dc0b0f1bdbc003003dd77e7dbf961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,83 +117,111 @@
             <element>due_date</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>c2f2ef48db8403003dd77e7dbf961943</sys_id>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>500b0f1bdbc003003dd77e7dbf96195a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>46f2ef48db8403003dd77e7dbf961943</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>start_date</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>c6f2ef48db8403003dd77e7dbf961943</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_order_technical_approve_date</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>4af2ef48db8403003dd77e7dbf961943</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_order_validation_date</element>
-            <position>12</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>caf2ef48db8403003dd77e7dbf961943</sys_id>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>d00b0f1bdbc003003dd77e7dbf96195a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>540b0f1bdbc003003dd77e7dbf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_order_commercial_validation_date</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>d40b0f1bdbc003003dd77e7dbf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_order_technical_interview_approve_date</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>580b0f1bdbc003003dd77e7dbf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_order_technical_approve_date</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>d80b0f1bdbc003003dd77e7dbf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_order_operational_approve_date</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>5c0b0f1bdbc003003dd77e7dbf96195a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_order_customer_approve_date</element>
-            <position>13</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-14 18:45:30</sys_created_on>
-            <sys_id>4ef2ef48db8403003dd77e7dbf961943</sys_id>
+            <sys_created_on>2017-07-24 19:21:02</sys_created_on>
+            <sys_id>dc0b0f1bdbc003003dd77e7dbf96195a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141970_work_orde_work_order" sys_domain="global" view="Default view">d27d4e37dbb332003dd77e7dbf9619b6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-14 18:45:30</sys_updated_on>
+            <sys_updated_on>2017-07-24 19:21:02</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

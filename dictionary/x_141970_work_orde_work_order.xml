@@ -15,18 +15,20 @@
             </choice>
         </element>
         <element label="Special Project" max_length="40" name="special_project" type="boolean"/>
-        <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element label="Start Date" max_length="40" name="start_date" read_only="true" type="glide_date_time"/>
         <element choice="1" label="IBX" max_length="32" name="u_wo_ibx" reference="x_141970_work_orde_ibx" type="reference">
             <choice/>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Work Order Status" max_length="40" name="u_wo_status" reference="x_141970_work_orde_work_order_status" type="reference">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="ff724bc4db4403003dd77e7dbf96193d" label="Work Order Status" max_length="40" name="u_wo_status" read_only="true" reference="x_141970_work_orde_work_order_status" type="reference">
             <choice/>
         </element>
-        <element label="Work Order Customer Approve Date" max_length="40" name="work_order_customer_approve_date" type="glide_date_time"/>
+        <element label="Work Order Commercial Validation Date" max_length="40" name="work_order_commercial_validation_date" read_only="true" type="glide_date_time"/>
+        <element label="Work Order Customer Approve Date" max_length="40" name="work_order_customer_approve_date" read_only="true" type="glide_date_time"/>
         <element label="Work Order ID" mandatory="true" max_length="40" name="work_order_id" type="integer"/>
-        <element choice_field="label" choice_table="x_141970_work_orde_work_order_status" display="true" label="Work Order Status" max_length="40" name="work_order_status" type="string"/>
-        <element label="Work Order Technical Approve Date" max_length="40" name="work_order_technical_approve_date" type="glide_date_time"/>
-        <element label="Work Order Validation Date" max_length="40" name="work_order_validation_date" type="glide_date_time"/>
+        <element label="Work Order Operational Approve Date" max_length="40" name="work_order_operational_approve_date" read_only="true" type="glide_date_time"/>
+        <element label="Work Order Technical Approve Date" max_length="40" name="work_order_technical_approve_date" read_only="true" type="glide_date_time"/>
+        <element label="Work Order Technical Interview Approve Date" max_length="40" name="work_order_technical_interview_approve_date" read_only="true" type="glide_date_time"/>
+        <element label="Work Order Validation Date" max_length="40" name="work_order_validation_date" read_only="true" type="glide_date_time"/>
         <index name="index">
             <element name="u_wo_ibx"/>
         </index>
